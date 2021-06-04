@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+Flutter Application display streaming scoreboard of football matches from api .
+DSisplay also some historical and anaisis data from kaggle website.
 
 ![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/61941216/120791165-24204d00-c534-11eb-92f5-cf6dfeec3ebe.gif)
 
