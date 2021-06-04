@@ -6,6 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+
+![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/61941216/120791165-24204d00-c534-11eb-92f5-cf6dfeec3ebe.gif)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
